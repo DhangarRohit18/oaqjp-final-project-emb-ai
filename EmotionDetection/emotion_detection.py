@@ -56,3 +56,4 @@ def emotion_detector(text_to_analyse):
     emotion_scores['dominant_emotion'] = dominant_emotion
 
     return emotion_scores
+
